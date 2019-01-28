@@ -1,4 +1,4 @@
-function homestead -d "Global function for Laravel Homestead"
+function hs -d "Global function for Laravel Homestead"
     set DIR $PWD
     cd ~/Homestead
     eval vagrant $argv

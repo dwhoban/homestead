@@ -9,6 +9,7 @@
 
 <br/>
 
+This plugin is uses the funtion povided by  [tikolakin](https://gist.github.com/tikolakin/d59b4fc87c0af9720d0d) and adapts the standard vagrant completions into a single package.
 
 ## Install
 
@@ -19,10 +20,19 @@ $ omf install homestead
 
 ## Usage
 
+Pass any `vagrant` command to your global Laravel Homestead machine.  Comes in two flavours: 
+
 ```fish
 $ homestead
 ```
+or
 
+```fish
+$ hs
+```
+
+## Credits
+- 
 
 # License
 
